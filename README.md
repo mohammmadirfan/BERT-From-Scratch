@@ -1,2 +1,4 @@
-# BERT-From-Scratch
-A PyTorch implementation of BERT from scratch
+# BERT from Scratch
+
+This repository contains an implementation of BERT (Bidirectional Encoder Representations from Transformers) from scratch using PyTorch.
+
